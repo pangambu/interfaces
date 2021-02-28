@@ -16,14 +16,10 @@ namespace interfaces
             ICity refCity = new Program();
             refname.PrintName();
             refCity.PrintCity();
-
-        
-
-
+            
             Console.ReadKey();
 
         }
-
 
         public void PrintName()
         {
